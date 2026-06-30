@@ -5,7 +5,7 @@
 🌱 I’m currently learning about Cybersecurity<br/>
 👯 I’m looking to collaborate and create desktop and moblie apps that will help people<br/>
 💬 Always looking to improve and get better<br/>
-📫 Reach me via email: phililp.akindipe@gmail.com<br/>
+📫 Reach me via email: philip.akindipe@gmail.com<br/>
 
 
 # 💻 Tech Stack:
